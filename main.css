@@ -1,0 +1,54 @@
+/*Nav Bar*/
+body {
+	max-width: 100%;
+	max-height: 100%;
+}
+header {
+	background-color: #FFB4B0;
+	max-width: 50%;
+	margin: 0 auto;
+	padding: auto;
+	border: 2px solid black;
+}
+
+li {
+	list-style-type: none;
+	display: inline;
+}
+/*Left Side */
+
+h3 {
+	font-weight: 700;
+}
+
+.music {
+	background-color: #4DD7FA;
+	float: left;
+	margin-top: 10px;
+	border: 2px solid black;
+	width: 25%;
+	height: 60%;
+	padding: 10px;
+}
+
+/*Right Side*/
+
+.songs {
+	background-color: #FEFAC0;
+	float: right;
+	margin-top: 10px;
+	border: 2px solid black;
+	width: 70%;
+	height: 60%;
+	text-indent: 10px;
+	padding: 2px;
+}
+
+h1 {
+	color: #785616;
+	font-weight: 600;
+}
+
+.extrapadding {
+	padding-bottom: 7px;
+}
